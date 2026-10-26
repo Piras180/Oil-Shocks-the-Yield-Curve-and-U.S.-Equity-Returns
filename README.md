@@ -45,8 +45,8 @@ The **written report** evaluates an alternative model set and reports RMSEs of *
 
 | File | Description |
 | --- | --- |
-| [`FINAL (1).ipynb`](FINAL%20%281%29.ipynb) | Python notebook with data preparation, manually implemented OLS, ARMAX likelihood estimation, rolling forecasts, diagnostics, and visualisations. |
-| [`Report (3).pdf`](Report%20%283%29.pdf) | Full academic report, including motivation, literature review, ARX/VAR analysis, results, and limitations. |
+| [`FINAL.ipynb`](FINAL%20%281%29.ipynb) | Python notebook with data preparation, manually implemented OLS, ARMAX likelihood estimation, rolling forecasts, diagnostics, and visualisations. |
+| [`Report.pdf`](Report%20%283%29.pdf) | Full academic report, including motivation, literature review, ARX/VAR analysis, results, and limitations. |
 | `README.md` | Project overview and selected findings. |
 
 **Implementation note:** The notebook and the report share the same research question and underlying data, but they use **different dynamic model specifications**. In particular, the uploaded notebook does not reproduce the report's VAR(1) and impulse-response analysis. Their numerical results should therefore be read as separate implementations, not as identical computational outputs.
